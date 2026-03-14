@@ -1,4 +1,7 @@
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=moumenmalsah&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=90)
 ## Hi there 👋
 
 <!--

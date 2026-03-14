@@ -1,7 +1,6 @@
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=moumenmalsah&show_icons=true&theme=radical)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World&fontSize=90)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=Prof.%20Moumen%20Malsah&fontSize=70" />
   
@@ -50,7 +49,7 @@ I am a passionate **Computer Science Educator** based in Morocco, dedicated to b
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moumenmalsah&theme=tokyonight&hide_border=true" />
 </div>
-## Hi there 👋
+
 
 <!--
 **moumenmalsah/moumenmalsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,3 @@
-![Your Stats](https://github-readme-stats.vercel.app/api?username=moumenmalsah&show_icons=true&theme=radical)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
